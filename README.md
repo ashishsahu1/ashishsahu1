@@ -1,6 +1,6 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=ashishsahu1) -->
-![](img/head.png)
+![](img/head3.png)
 <!--
 **ashishsahu1/ashishsahu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
