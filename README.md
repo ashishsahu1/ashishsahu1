@@ -1,19 +1,13 @@
 
 <p align="center">
 
-![](img/banner.png)
-
-
-
-<h1 align="center">✔Project Wall</h1>
-
-<!-- |  |  |
-|:---:|:---:|
-|[![ashishsahu1/Right-House - GitHub](https://gh-card.dev/repos/ashishsahu1/Right-House.svg)](https://github.com/ashishsahu1/Right-House)|[![ashishsahu1/Right-House - GitHub](https://gh-card.dev/repos/ashishsahu1/Right-House.svg)](https://github.com/ashishsahu1/Right-House)| -->
-
-<h1 align="center">✔Stats</h1>
+![](img/head3.png)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishsahu1&theme=github)
+
+
+
+
 
 |   |   |
 |:---:|:---:|
