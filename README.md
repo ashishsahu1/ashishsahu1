@@ -1,13 +1,10 @@
-
 <p align="center">
 
-![](img/head3.png)
+![](img/head4.png)
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishsahu1&theme=github) -->
 
-
-
-<!-- 
+<!--
 
 |   |   |
 |:---:|:---:|
